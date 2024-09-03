@@ -210,7 +210,7 @@ public @interface DataSourceDefinition {
      *
      * <ul>
      * <li>Connection.TRANSACTION_NONE,
-     * <li>Connection.TRANSACTION_READ_ UNCOMMITTED,
+     * <li>Connection.TRANSACTION_READ_UNCOMMITTED,
      * <li>Connection.TRANSACTION_READ_COMMITTED,
      * <li>Connection.TRANSACTION_REPEATABLE_READ,
      * <li>Connection.TRANSACTION_SERIALIZABLE
